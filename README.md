@@ -1,5 +1,6 @@
 # Solve_multivariate_equations
- Solve multivariate linear equations by using genetic algorithm
+ Solve multivariate linear equation by using genetic algorithm
+ 
 parameters
 --help for more information about parameters
 -c for coefficient (require)
