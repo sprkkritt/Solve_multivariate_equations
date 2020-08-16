@@ -5,4 +5,4 @@ parameters
 --help for more information about parameters
 -c for coefficient (require)
 -p for number of chromosome (require)
--m for max round of Maximun number of genetic algorithm (optional)
+-m for Maximun round of genetic algorithm (optional)
